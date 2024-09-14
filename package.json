@@ -1,0 +1,18 @@
+{
+  "name": "html-json-form",
+  "version": "0.1.0",
+  "description": "Server side library for harmonising JSON and HTML form submissions",
+  "main": "src/index.mjs",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andybee/html-json-form.git"
+  },
+  "author": "Andy Buckingham <andy@andybee.com>",
+  "license": "Apache-2.0"
+}
